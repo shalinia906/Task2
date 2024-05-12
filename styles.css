@@ -1,0 +1,30 @@
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+h1{
+   color:purple;
+}
+ul{
+    color:maroon;
+}
+body {
+  background-image: url('./jj.jpg');
+  width: 1080px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #999;
+}
